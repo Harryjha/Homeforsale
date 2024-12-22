@@ -12,7 +12,7 @@ import  {Layout, RequireAuth } from "./routes/layout/layout";
 import ProfileUpdatePage from "./routes/profileUpdatePage/profileUpdatePage";
 import HomePage from "./routes/homePage/homePage"
 import ListPage from "./routes/listPage/listPage";
-import SinglePage from "./routes/singlePage/SinglePage";
+import SinglePage from "./routes/singlePage/singlePage";
 import ProfilPage from "./routes/profilePage/profilePage";
 import Register from "./routes/register/register";
 import Login from "./routes/login/login";
